@@ -1,0 +1,73 @@
+2018-03-1409:41:19[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1409:41:19[com.zhu.service.impl.UserServiceImpl][main:34]-[INFO]zhuzhu=====12
+2018-03-1409:41:19[com.zhu.advice.UserServiceAround][main:36]-[INFO]end proxy
+2018-03-1409:56:29[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1409:56:29[com.zhu.service.impl.UserServiceImpl][main:15]-[INFO]zhuzhu=====18
+2018-03-1409:56:29[com.zhu.advice.UserServiceAround][main:15]-[INFO]end proxy
+2018-03-1410:03:59[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]zhzhu=====18
+2018-03-1410:03:59[com.zhu.advice.UserServiceAfter][main:0]-[INFO]after method
+2018-03-1410:03:59[com.zhu.advice.UserServiceAfter][main:0]-[INFO]com.zhu.service.impl.UserServiceImpl$$EnhancerBySpringCGLIB$$65e09d7f
+2018-03-1410:09:52[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]zhuzhu=====18
+2018-03-1410:09:52[com.zhu.advice.UserServiceAfter][main:0]-[INFO]after method
+2018-03-1410:16:15[com.zhu.advice.UserServiceBefore][main:0]-[INFO]Before method
+2018-03-1410:16:15[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]zhuzhu=====19
+2018-03-1410:21:32[com.zhu.advice.UserServiceBefore][main:0]-[INFO]Before method
+2018-03-1410:21:32[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]zhuzhu=====19
+2018-03-1410:21:45[com.zhu.advice.UserServiceBefore][main:0]-[INFO]Before method
+2018-03-1410:21:45[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]zhuzhu=====18
+2018-03-1413:57:12[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1413:57:12[com.zhu.service.impl.UserServiceImpl][main:31]-[INFO]ggbone=====8
+2018-03-1413:57:12[com.zhu.advice.UserServiceAround][main:31]-[INFO]end proxy
+2018-03-1414:09:59[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1414:09:59[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]ggbone=====8
+2018-03-1414:09:59[com.zhu.advice.UserServiceAround][main:16]-[INFO]end proxy
+2018-03-1414:18:46[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1414:18:46[com.zhu.service.impl.UserServiceImpl][main:31]-[INFO]zhuzhu=====8
+2018-03-1414:18:46[com.zhu.advice.UserServiceAround][main:31]-[INFO]end proxy
+2018-03-1414:18:46[com.zhu.advisor.UserServiceRegexAdvisor][main:31]-[INFO]com.zhu.service.impl.UserServiceImpl$$EnhancerBySpringCGLIB$$bb0cd56a
+2018-03-1414:37:01[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1414:37:01[com.zhu.service.impl.UserServiceImpl][main:33]-[INFO]zhuzzhu=====18
+2018-03-1414:37:01[com.zhu.advice.UserServiceAround][main:33]-[INFO]end proxy
+2018-03-1414:37:01[com.zhu.advisor.UserServiceRegexAdvisor][main:33]-[INFO]com.zhu.service.impl.UserServiceImpl$$EnhancerBySpringCGLIB$$17142ffd
+2018-03-1414:45:47[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1414:45:47[com.zhu.service.impl.UserServiceImpl][main:32]-[INFO]zhuzhu=====18
+2018-03-1414:45:47[com.zhu.advice.UserServiceAround][main:32]-[INFO]end proxy
+2018-03-1414:45:47[com.zhu.advisor.UserServiceDynamitPointCut][main:32]-[INFO]com.zhu.service.impl.UserServiceImpl$$EnhancerBySpringCGLIB$$1f862cdc
+2018-03-1414:54:43[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1414:54:43[com.zhu.service.impl.UserServiceImpl][main:0]-[INFO]zhuzhu=====18
+2018-03-1414:54:43[com.zhu.advice.UserServiceAround][main:0]-[INFO]end proxy
+2018-03-1414:54:43[com.zhu.advisor.UserServiceDynamitPointCut][main:0]-[INFO]com.sun.proxy.$Proxy4
+2018-03-1417:02:28[com.zhu.dao.impl.UserDaoImpl][main:0]-[INFO]----------zhuzu
+2018-03-1417:03:08[com.zhu.dao.impl.UserDaoImpl][main:0]-[INFO]----------zhuzu
+2018-03-1417:03:53[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1417:03:53[com.zhu.dao.impl.UserDaoImpl][main:44]-[INFO]----------zhuzu
+2018-03-1417:03:53[com.zhu.advice.UserServiceAround][main:45]-[INFO]end proxy
+2018-03-1417:23:13[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1417:23:13[com.zhu.dao.impl.UserDaoImpl][main:3]-[INFO]----------zhuzhu
+2018-03-1417:23:13[com.zhu.advice.UserServiceAround][main:6]-[INFO]end proxy
+2018-03-1417:48:21[com.zhu.advice.UserServiceAround][main:1]-[INFO]start proxy
+2018-03-1417:48:21[com.zhu.dao.impl.UserDaoImpl][main:3]-[INFO]----------zhuzhu
+2018-03-1417:48:21[com.zhu.advice.UserServiceAround][main:7]-[INFO]end proxy
+2018-03-1418:37:06[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1418:37:06[com.zhu.dao.impl.UserDaoImpl][main:3]-[INFO]----------zhuzhu
+2018-03-1418:37:06[com.zhu.advice.UserServiceAround][main:7]-[INFO]end proxy
+2018-03-1418:54:55[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1418:54:55[com.zhu.dao.impl.UserDaoImpl][main:33]-[INFO]----------zz
+2018-03-1418:54:55[com.zhu.advice.UserServiceAround][main:34]-[INFO]end proxy
+2018-03-1419:11:46[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1419:11:46[com.zhu.dao.impl.UserDaoImpl][main:2]-[INFO]----------oo
+2018-03-1419:11:46[com.zhu.advice.UserServiceAround][main:6]-[INFO]end proxy
+2018-03-1419:22:56[com.zhu.dao.impl.UserDaoImpl][main:0]-[INFO]----------admin
+2018-03-1419:22:56[com.zhu.autoproxy.BeanNameMatch][main:3]-[INFO]com.zhu.service.impl.UserServiceImpl
+2018-03-1419:22:56[com.zhu.advice.UserServiceAround][main:8]-[INFO]start proxy
+2018-03-1419:22:56[com.zhu.dao.impl.UserDaoImpl][main:9]-[INFO]----------admin
+2018-03-1419:22:56[com.zhu.advice.UserServiceAround][main:13]-[INFO]end proxy
+2018-03-1419:22:56[com.zhu.autoproxy.BeanNameMatch][main:13]-[INFO]com.sun.proxy.$Proxy3
+2018-03-1419:28:41[com.zhu.advice.UserServiceAround][main:0]-[INFO]start proxy
+2018-03-1419:28:41[com.zhu.advice.UserServiceAround][main:2]-[INFO]start proxy
+2018-03-1419:28:41[com.zhu.dao.impl.UserDaoImpl][main:3]-[INFO]----------admin
+2018-03-1419:28:41[com.zhu.advice.UserServiceAround][main:6]-[INFO]end proxy
+2018-03-1419:28:41[com.zhu.advice.UserServiceAround][main:6]-[INFO]end proxy
+2018-03-1419:28:41[com.zhu.autoproxy.AdvisorMatch][main:7]-[INFO]com.sun.proxy.$Proxy1
+2018-03-1419:28:41[com.zhu.dao.impl.UserDaoImpl][main:7]-[INFO]----------admin
+2018-03-1419:28:41[com.zhu.autoproxy.AdvisorMatch][main:7]-[INFO]com.zhu.dao.impl.UserDaoImpl

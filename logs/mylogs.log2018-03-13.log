@@ -1,0 +1,6 @@
+2018-03-1315:43:03[com.zhu.cglib.CglibMethodInterator][main:0]-[INFO]start
+2018-03-1315:43:03[com.zhu.cglib.CglibFather][main:22]-[INFO]test:zhuzhu123
+2018-03-1315:43:03[com.zhu.cglib.CglibMethodInterator][main:22]-[INFO]end
+2018-03-1315:58:41[com.zhu.proxy.JdkProxy][main:0]-[INFO]jdkStart
+2018-03-1315:58:41[com.zhu.proxy.ProxyImpl][main:5]-[INFO]testProxy
+2018-03-1315:58:41[com.zhu.proxy.JdkProxy][main:6]-[INFO]jdkEnd
